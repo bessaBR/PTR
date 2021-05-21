@@ -1,0 +1,4 @@
+
+Tempo Esperado = 1000 ms
+Tempo Decorrido = 1036 ms
+Diferenca = 36 ms
